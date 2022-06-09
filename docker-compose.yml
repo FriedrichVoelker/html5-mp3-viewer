@@ -1,0 +1,3 @@
+services:
+  mp3-viewer:
+    build: .

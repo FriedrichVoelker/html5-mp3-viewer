@@ -1,0 +1,19 @@
+{
+	"pageTitle": "MP3 Viewer",
+	"title": "Simple MP3 Viewer",
+	"description": "Simple Onepage MP3 Viewer",
+	"audios": {
+		"meow": {
+			"title": "Test mp3 with sound meow",
+			"url": "../audio/meow.mp3"
+		},
+		"meow2": {
+			"title": "Test mp3 with sound meow",
+			"url": "/audio/meow.mp3"
+		},
+		"meow3": {
+			"title": "Test mp3 with sound meow",
+			"url": "audio/meow.mp3"
+		}
+	}
+}
