@@ -1,3 +1,5 @@
 services:
   mp3-viewer:
     build: .
+    ports:
+        - "3274:3274"
